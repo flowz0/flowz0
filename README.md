@@ -1,25 +1,19 @@
-<h1 align="center">Hey there 👋 I'm Billy Flowers</h1>
+<h1>Hey there 👋 I'm Billy Flowers</h1>
 
-<p align="center">
+<p>
   Software Engineer | Full-Stack Developer | Web & UX Enthusiast
 </p>
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api?username=flowz0&show_icons=true&theme=tokyonight&hide_title=true" alt="Billy's GitHub Stats" />
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=billyflowers&style=flat-square&color=blue" alt="Visitor Count" />
-</p>
-
----
 
 ## 🚀 About Me
 
 I'm a software engineer passionate about crafting responsive, scalable, and accessible digital experiences.     
 I specialize in building full-stack web applications using:
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
