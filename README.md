@@ -39,13 +39,6 @@ I specialize in building full-stack web applications using:
 
 ---
 
-## 🎮 Fun Facts
-🎮 Got into coding through gaming and still game when I can  
-🌍 Love exploring nature, traveling to new places, and meeting people  
-✨ Fueled by curiosity and creating solutions
-
----
-
 ## 🤝 Let's Connect
 I'm always open to collaborating or chatting about tech, design, and anything in between.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billyflowers/) or check out my [portfolio](https://www.bflows.dev/)!
