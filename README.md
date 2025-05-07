@@ -1,7 +1,7 @@
 <h1>Hey there 👋 I'm Billy Flowers</h1>
 
 <p>
-  Software Engineer | Full-Stack Developer
+  Software Engineer | Full Stack Developer
 </p>
 
 <p>
@@ -22,13 +22,6 @@ I specialize in building full-stack web applications using:
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 </p>
-
----
-
-## 🧠 What I Value
-✅ Clean code & scalable architecture  
-🧩 Big-picture thinking for UX and system design  
-💬 Strong communication & leadership in collaborative environments
 
 ---
 
