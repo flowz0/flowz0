@@ -1,15 +1,4 @@
-<h1>Hey there 👋 I'm Billy Flowers</h1>
-
-<p>
-  Software Engineer | Full Stack Developer
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=flowz0&show_icons=true&theme=tokyonight&hide_title=true" alt="Billy's GitHub Stats" />
-</p>
-
-## 🚀 About Me
-
+# Hey there 👋
 I'm a software engineer passionate about crafting responsive, scalable, and accessible digital experiences.     
 I specialize in building full-stack web applications using:
 
@@ -26,5 +15,5 @@ I specialize in building full-stack web applications using:
 ---
 
 ## 🤝 Let's Connect
-I'm always open to collaborating or chatting about tech, design, and anything in between.  
+I'm always open to collaborating or chatting about tech, design, games, and anything in between.  
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billyflowers/) or check out my [portfolio](https://www.bflows.dev/)!
