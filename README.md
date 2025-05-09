@@ -1,6 +1,6 @@
 # Hey there 👋
 I'm a **software engineer** passionate about crafting responsive, scalable, and accessible digital experiences.            
-I _specialize_ in building full-stack web applications using:
+I specialize in building full-stack web applications using:
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
