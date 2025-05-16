@@ -1,5 +1,5 @@
 # Hey there 👋
-I'm a **software engineer** passionate about crafting responsive, scalable, and accessible digital experiences.            
+I'm a software engineer passionate about crafting responsive, scalable, and accessible digital experiences.            
 I specialize in building full-stack web applications using:
 
 <p>
