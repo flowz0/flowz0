@@ -16,4 +16,4 @@ I specialize in building full-stack web applications using:
 
 ---
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/billyflowers/) or check out my [portfolio](https://www.netflows.xyz/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/billyflowers/) or check out my [portfolio](https://www.netflows.xyz/)
