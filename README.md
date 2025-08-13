@@ -1,4 +1,4 @@
-I'm a **software engineer** passionate about creating responsive, scalable, and accessible digital solutions.            
+I'm a **software engineer** that creates responsive, scalable, and accessible digital solutions.            
 I specialize in building full-stack web applications using:
 
 <p>
