@@ -10,5 +10,4 @@ I specialize in building full-stack web applications using:
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
----
 Connect with me on [LinkedIn](https://www.linkedin.com/in/billyflowers/) or check out my [portfolio](https://www.netflows.xyz/).
