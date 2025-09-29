@@ -1,5 +1,5 @@
-I'm a **software engineer** that creates responsive, scalable, and accessible digital solutions.            
-I specialize in building full-stack web applications using:
+### I'm a **software engineer** that creates responsive, scalable, and accessible digital solutions.            
+I specialize in building full-stack web applications using modern technologies:
 
 <p>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
@@ -9,5 +9,7 @@ I specialize in building full-stack web applications using:
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
+
+---
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/billyflowers/) or check out my [Portfolio](https://www.netflows.xyz/).
