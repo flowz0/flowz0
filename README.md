@@ -1,4 +1,4 @@
-### Hey, my name is Billy
+### Hey, my name is Billy 🙋‍♂️
 I'm a **software engineer** that creates responsive, scalable, and accessible digital solutions.            
 I specialize in building full-stack web applications using modern technologies:
 
